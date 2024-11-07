@@ -39,3 +39,52 @@ header {
 .burger-menu {
   display: none;
 }
+
+/* main section */
+
+.main-section {
+  margin: 158px auto 71px auto;
+  display: flex;
+  justify-content: space-between;
+  vertical-align: center;
+}
+
+.text-wrapper {
+  max-width: 506px;
+}
+
+.main-text {
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 60px;
+  max-width: 450px;
+  color: #21243d;
+}
+
+.description {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 23.5px;
+  margin: 40px 0px 38px 0px;
+}
+
+.btn-download {
+  width: 208px;
+  height: 47px;
+  border-radius: 2px;
+  background-color: #ff6464;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  border: none;
+  cursor: pointer;
+}
+
+.profile-img {
+  width: 343px;
+  height: 343px;
+}
+
+.main-img {
+  width: 100%;
+}
