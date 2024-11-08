@@ -88,3 +88,56 @@ header {
 .main-img {
   width: 100%;
 }
+
+/* .wrapper {
+  width: 400px;
+  height: 400px;
+  background-color: green;
+  position: relative;
+}
+
+.box {
+  width: 120px;
+  height: 120px;
+  background-color: red;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.box:hover {
+  background-color: blue;
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+li {
+  position: relative;
+  display: inline-block;
+  margin: 200px;
+}
+
+li::after {
+  content: "";
+  height: 2px;
+  width: 0%;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  background-color: tomato;
+  transition: width 0.5s ease;
+}
+
+li:hover::after {
+  width: 100%;
+}
+
+.card {
+  animation: myAnimation;
+  animation-duration: 5s;
+  width: 200px;
+  height: 200px;
+  background-color: red;
+} */
